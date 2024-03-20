@@ -1,0 +1,2 @@
+llama_index==0.10.20
+pinecone-client==3.0.0

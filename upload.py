@@ -7,11 +7,11 @@ import re
 import sys
 import env
 from pathlib import Path
+from pinecone.grpc import PineconeGRPC
 from llama_index.readers import PDFReader
 from llama_index.node_parser import SemanticSplitterNodeParser
 from llama_index.embeddings import OpenAIEmbedding
 from llama_index.ingestion import IngestionPipeline
-from pinecone.grpc import PineconeGRPC
 from llama_index.vector_stores import PineconeVectorStore
 
 # Args parsing

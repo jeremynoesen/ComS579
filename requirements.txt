@@ -1,2 +1,2 @@
-llama_index==0.10.20
-pinecone-client==3.0.0
+llama_index==0.9.34
+pinecone-client[grpc]==3.0.0

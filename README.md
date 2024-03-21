@@ -35,7 +35,7 @@ The project should then be ready to run.
 
 Here is a video demonstration of this process:
 
-
+https://github.com/jeremynoesen/ComS579/assets/46114593/8bca86ad-3f2c-477b-991a-1d1ebd3fd474
 
 ## Upload To Pinecone
 
@@ -48,3 +48,4 @@ python3 upload.py <file.pdf>
 
 Here is a video demonstration of this process:
 
+https://github.com/jeremynoesen/ComS579/assets/46114593/ae5867c1-07e8-4c2e-ac4e-2d7984aa9c5e
